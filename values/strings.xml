@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Harkkat</string>
+    <string name="notes_list_topbar_text">Notes</string>
+    <string name="note_list_placeholder_text_search">Search a note</string>
+    <string name="note_list_search_icon_text">Search Icon</string>
+    <string name="note_list_fbutton_add_note">Add Note</string>
+    <string name="note_list_google_query_text">Nietzsche\'s best works</string>
+    <string name="note_list_icon_text_google_search">Google Search</string>
+    <string name="note_list_fbutton_icon_weather_note">Weather Note</string>
+    <string name="note_details_topappbar_title">Note Details</string>
+    <string name="note_detail_icon_navigationback_text">Back</string>
+    <string name="note_detail_note_title">Title</string>
+    <string name="note_detail_note_content">Content</string>
+    <string name="note_detail_toast_cannot_delete_note">Cannot delete. Note does not exist.</string>
+    <string name="note_detail_icon_delete_note">Delete Note</string>
+    <string name="note_detail_icon_save_note">Save Note</string>
+    <string name="weather_screen_add_as_note">Add as Note</string>
+    <string name="weather_screen_enter_city">Enter City</string>
+    <string name="weather_screen_topbar_title">Weather</string>
+    <string name="weather_screen_topbar_icon_back">Back</string>
+    <string name="weather_screen_language_setting">en</string>
+    <string name="weather_screen_unknown_error_message">Unknown error</string>
+    <string name="weather_screen_weather_state_msg">Weather state: %1$s</string>
+    <string name="weather_screen_wind_m_s_msg">Wind: %1$s m/s</string>
+    <string name="weather_screen_weather_in_city_title">Weather in %1$s</string>
+    <string name="weather_screen_temperature_content">"Temperature: %1$s "</string>
+    <string name="weather_screen_status_content">"Status: %1$s "</string>
+    <string name="weather_screen_wind_2f_m_s_content">Wind: %.2f m/s</string>
+    <string name="weather_data_error_fetching_weather_data">Error fetching weather data</string>
+    <string name="note_list_web_search_request">No application can handle this request.</string>
+    <string name="city_not_found">City not found!</string>
+    <string name="custom_topbar_go_back_icon">Go back</string>
+</resources>

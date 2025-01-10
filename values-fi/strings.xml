@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Harkkat</string>
+    <string name="notes_list_topbar_text">Muistiinpanot</string>
+    <string name="note_list_placeholder_text_search">Etsi muistiinpano</string>
+    <string name="note_list_search_icon_text">Etsintäkuvake</string>
+    <string name="note_list_fbutton_add_note">Lisää muistiinpano</string>
+    <string name="note_list_google_query_text">Nietzschen parhaat teokset</string>
+    <string name="note_list_icon_text_google_search">Etsi Googlella</string>
+    <string name="note_list_fbutton_icon_weather_note">Säämuistiinpano</string>
+    <string name="note_details_topappbar_title">Muistiinpano</string>
+    <string name="note_detail_icon_navigationback_text">Takaisin</string>
+    <string name="note_detail_note_title">Otsikko</string>
+    <string name="note_detail_note_content">Sisältö</string>
+    <string name="note_detail_toast_cannot_delete_note">Ei voida poistaa. Muistiinpanoa ei ole olemassa.</string>
+    <string name="note_detail_icon_delete_note">Poista muistiinpano</string>
+    <string name="note_detail_icon_save_note">Tallenna muistiinpano</string>
+    <string name="weather_screen_add_as_note">Lisää muistiinpanona</string>
+    <string name="weather_screen_enter_city">Syötä kaupungin nimi</string>
+    <string name="weather_screen_topbar_title">Sää</string>
+    <string name="weather_screen_topbar_icon_back">Takaisin</string>
+    <string name="weather_screen_language_setting">fi</string>
+    <string name="weather_screen_unknown_error_message">Tuntematon virhe</string>
+    <string name="weather_screen_weather_state_msg">Säätila: %1$s</string>
+    <string name="weather_screen_wind_m_s_msg">Tuuli: %1$s m/s</string>
+    <string name="weather_screen_weather_in_city_title">Sää kaupungissa %1$s</string>
+    <string name="weather_screen_temperature_content">"Ulkolämpötila: %1$s "</string>
+    <string name="weather_screen_status_content">"Säätila: %1$s "</string>
+    <string name="weather_screen_wind_2f_m_s_content">Tuuli: %.2f m/s</string>
+    <string name="weather_data_error_fetching_weather_data">Virhe haettaessa säädataa</string>
+    <string name="note_list_web_search_request">Mikään sovellus ei voi käsitellä tätä pyyntöä.</string>
+    <string name="city_not_found">Hakemaasi kaupunkia ei löydy!</string>
+    <string name="custom_topbar_go_back_icon">Takaisin</string>
+</resources>
