@@ -1,1 +1,1 @@
-# note App for Android, a course project, a basic note app or base for it with possible extensibility for everyday (capabilities) use (everydayApp, now with basic weather fetch capabilities). Jetpack Compose, Kotlin, Android, Room database
+# Note App for Android, a course project, a basic note app or base for it with possible extensibility for everyday (capabilities) use (everydayApp, now with basic weather fetch capabilities). Jetpack Compose, Kotlin, Android, Room database
